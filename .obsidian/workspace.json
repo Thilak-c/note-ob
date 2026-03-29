@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OrderZap-notes/Petpooja ke ma ka.md",
+                "file": "OrderZap-notes/Marketing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Petpooja ke ma ka"
+              "title": "Marketing"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OrderZap-notes/Petpooja ke ma ka.md",
+                "file": "OrderZap-notes/Marketing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Petpooja ke ma ka"
+              "title": "Backlinks for Marketing"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OrderZap-notes/Petpooja ke ma ka.md",
+                "file": "OrderZap-notes/Marketing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Petpooja ke ma ka"
+              "title": "Outgoing links from Marketing"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OrderZap-notes/Petpooja ke ma ka.md",
+                "file": "OrderZap-notes/Marketing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Petpooja ke ma ka"
+              "title": "Outline of Marketing"
             }
           }
         ]
@@ -180,14 +180,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "f350d2b9dab099bb",
   "lastOpenFiles": [
-    "Untitled",
-    "OrderZap-notes/Marketing.md",
+    "do-to",
     "OrderZap-notes/diffents.canvas",
+    "OrderZap-notes/Petpooja ke ma ka.md",
+    "OrderZap-notes/Marketing.md",
     "OrderZap-notes/Untitled.canvas"
   ]
 }
