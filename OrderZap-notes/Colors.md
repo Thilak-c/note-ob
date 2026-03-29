@@ -3,7 +3,7 @@
 ![[Pasted image 20260329145929.png]]
 
 
-Or#D90429
-#F8F9FA
-#FFB703
+"Order"            -- #D90429
+"Zap"               --  #F8F9FA
+Background     -- #FFB703
 
