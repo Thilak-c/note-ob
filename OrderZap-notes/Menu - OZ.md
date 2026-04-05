@@ -48,4 +48,4 @@ reach more customers without creating a separate menu.
 
 and bro right now we are making this for the manger or owner like the admin plane 
 
-all this feature for the menageing
+all this feature for the managing the menu of a restro
