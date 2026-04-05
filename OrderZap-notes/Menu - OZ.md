@@ -32,3 +32,10 @@ one item, multiple options (size, spice level, toppings). No duplicate entries n
 
 
 ### Item photo upload
+
+food photos increase orders significantly. Owner uploads once, customers see it everywhere
+
+
+### Multi-language menu
+
+reach more customers without creating a separate menu.
