@@ -46,4 +46,6 @@ reach more customers without creating a separate menu.
 ![[Pasted image 20260405101901.png]]
 
 
-and bro we right now 
+and bro right now we are making this for the manger or owner like the admin plane 
+
+all this feature for the menageing
