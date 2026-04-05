@@ -39,3 +39,11 @@ food photos increase orders significantly. Owner uploads once, customers see it 
 ### Multi-language menu
 
 reach more customers without creating a separate menu.
+
+
+### Zone-based menus
+
+![[Pasted image 20260405101901.png]]
+
+
+and bro we right now 
