@@ -6,5 +6,6 @@
 
 ### Live availability toggle
 
-
 owner marks an item sold out in one tap. No customer orders something unavailable, no refunds, no waste.
+
+### Quick price editing
